@@ -4,7 +4,8 @@
   "description": "",
   "main": "qualquerCoisa.js",
   "scripts": {
-    "dev": "nodemon qualquerCoisa.js"
+    "dev": "nodemon qualquerCoisa.js",
+    "atividadeSaudacao": "nodemon atividadeSaudacao.js"
   },
   "keywords": [],
   "author": "",
